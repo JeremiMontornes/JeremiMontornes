@@ -1,3 +1,3 @@
 
 
-I’m @JeremiMontornes. This is my applied research project (mostly in R)
+I’m @JeremiMontornes. This is my applied research projects (mostly in R)
